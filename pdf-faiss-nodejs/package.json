@@ -1,0 +1,20 @@
+{
+  "name": "pdf-faiss-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.3.42",
+    "@langchain/core": "^0.3.55",
+    "@xenova/transformers": "^2.17.2",
+    "axios": "^1.9.0",
+    "fs-extra": "^11.3.0",
+    "langchain": "^0.3.24"
+  }
+}
